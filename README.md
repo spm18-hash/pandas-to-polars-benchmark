@@ -4,7 +4,7 @@ Benchmarking a migration from pandas to Polars using the NYC Taxi January 2026 p
 
 ## Dataset
 
-* [NYC Taxi January 2026 parquet data]("https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2026-01.parquet")
+* [NYC Taxi January 2026 parquet data](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2026-01.parquet)
 * Rows processed: 3,560,862
 
 ## Workflow
